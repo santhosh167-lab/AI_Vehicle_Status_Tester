@@ -51,3 +51,15 @@ Warning: Critical warning! Battery and fuel levels dangerously low
 ⛽ Low fuel detected: 5%
 🧠 Sentiment: NEGATIVE (0.99)
 
+🔧 Future Enhancements
+
+Export test results to CSV or HTML report
+
+Add severity scoring system
+
+Create a Streamlit-based dashboard for visual test execution
+
+Integrate real-time APIs or automotive CAN logs
+
+
+
